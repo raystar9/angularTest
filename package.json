@@ -1,0 +1,25 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "angular test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raystar9/angularTest.git"
+  },
+  "keywords": [
+    "at"
+  ],
+  "author": "raystar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raystar9/angularTest/issues"
+  },
+  "homepage": "https://github.com/raystar9/angularTest#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
